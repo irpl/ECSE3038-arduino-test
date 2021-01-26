@@ -2,9 +2,12 @@
 
 This repo wis used to explain how git works.
 
-1. one
-2. two
-3. three
+## things to download
+
+1. Git
+2. VSCode
+   1. platformIO
+3. Arduino IDE
 
 ## Subtitle
 
